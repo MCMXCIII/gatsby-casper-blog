@@ -37,17 +37,14 @@ const About: React.FC = () => (
           <PostFullContent className="post-full-content">
             <div className="post-content">
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc commodo finibus leo,
-                non tempus magna vehicula ac. Maecenas mollis ante finibus pharetra imperdiet.
-                Maecenas in aliquam purus. Nam et massa a nulla fermentum dapibus sit amet in neque.
-                Ut ipsum ipsum, rhoncus a sodales pellentesque, interdum a elit. Nullam aliquam
-                tellus nibh, eget laoreet dui aliquet non. Vestibulum malesuada ante at diam tempus,
-                ac interdum risus scelerisque. Sed ipsum neque, vulputate porta diam eget, consequat
-                blandit nulla. Integer volutpat velit vitae purus lacinia aliquam. Integer bibendum
-                ipsum vitae magna pulvinar, nec vehicula dolor vulputate. Nulla eu massa id orci
-                placerat finibus vel sit amet eros. Vestibulum quis consequat massa. Sed sagittis
-                sollicitudin massa at commodo. Praesent diam nisi, imperdiet posuere eleifend nec,
-                blandit ac massa.
+                Just a freelance dev who works on a bunch of different products and projects also a part time
+		security researcher. I have worked for few small teams around the D.C. area and produced sites
+		for a few small businesses and consulting with a few other for some custom projects. I got my 
+		start as a junior dev taking after my mentor who is my godmother worked my way up by learning
+		the basics and building small webpages for myself as a hobby and then working to making pages
+		for my school. From there I moved further into the IT field and started working on automation
+		scripts and small tools that I developed to help me working on my home file server and serve up
+		videos and clips from a server and even host my own forums and anonymous imageboard.
               </p>
               <p>
                 Vestibulum semper pretium ipsum nec congue. Ut ac eros nisi. Donec leo sem, aliquam

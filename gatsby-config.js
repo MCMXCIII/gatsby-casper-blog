@@ -2,7 +2,7 @@ const path = require('path');
 
 module.exports = {
   siteMetadata: {
-    title: 'Quantum',
+    title: 'thicc-blog',
     description: 'A blog on thoughts expanded',
     siteUrl: 'https://gatsby-casper.netlify.com', // full path to blog - no ending slash
   },
@@ -51,7 +51,7 @@ module.exports = {
       },
     },
     'gatsby-plugin-emotion',
-    'gatsby-plugin-typescript',
+    'gatsby-plugin-typBescript',
     'gatsby-transformer-sharp',
     'gatsby-plugin-react-helmet',
     'gatsby-transformer-yaml',

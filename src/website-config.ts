@@ -49,10 +49,10 @@ export interface WebsiteConfig {
 }
 
 const config: WebsiteConfig = {
-  title: 'Ghost',
-  description: 'The professional publishing platform',
+  title: 'Thicc Blog',
+  description: 'Keyboard Rambler',
   coverImage: 'img/tobias-tullius-forest-cover.jpg',
-  logo: 'img/ghost-logo.png',
+  logo: '',
   lang: 'en',
   siteUrl: 'https://gatsby-casper.netlify.com',
   facebook: 'https://www.facebook.com/',
